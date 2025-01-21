@@ -1,5 +1,9 @@
-Server Access Summary 
+Server Access Summary
 ======================
 
 Top 3 IP addresses:
-50 unique IP addresses accessed the server3. 6:  65.140.160.255
+1. 12:  237.227.142.204
+2. 10:  41.241.198.100
+3. 6:  65.140.160.255
+
+50 unique IP addresses accessed the server.
